@@ -104,7 +104,7 @@ function AddMember({ alreadyAddedMembers, id, fetchGroup }) {
                                 <Input
                                     isClearable
                                     label="Search by username"
-                                    placeholder="Type to search... eg-: Laxya"
+                                    placeholder="Type to search... eg-: Demo"
                                     size='lg'
                                     value={inputValue}
                                     onClear={clearInputValue}
