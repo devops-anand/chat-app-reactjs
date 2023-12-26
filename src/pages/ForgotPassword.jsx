@@ -42,7 +42,7 @@ function ForgotPassword() {
                             <BiArrowBack />
                         </Button>
                     </Tooltip>
-                    <h1 className="text-3xl font-bold text-center">Chatify</h1>
+                    <h1 className="text-3xl font-bold text-center">Chat App</h1>
                 </div>
                 <Divider className="my-4" />
                 <h2 className="text-xl font-semibold text-center mb-6">Forgot Password</h2>
