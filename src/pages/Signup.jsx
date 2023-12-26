@@ -199,11 +199,11 @@ export default function Signup() {
                                     <Checkbox defaultSelected size="md" className="font-semibold">
                                         Remeber me
                                     </Checkbox>
-                                    <div onClick={() => nav("/forgot-password")}>
+{/*                                     <div onClick={() => nav("/forgot-password")}>
                                         <a href="#" className="font-medium text-blue-600">
                                             Forgot Password?
                                         </a>
-                                    </div>
+                                    </div> */}
                                 </div>
                                 <Button isLoading={isLoading} type="submit" color="primary" size="lg" className="font-semibold">
                                     Login
