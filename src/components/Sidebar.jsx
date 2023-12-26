@@ -289,7 +289,7 @@ export default function Sidebar({ setGroupId, currentGroupId, showMessage, setMa
                                         <Input
                                             isClearable
                                             label="Search by username"
-                                            placeholder="Type to search... eg-: Laxya"
+                                            placeholder="Type to search... eg-: Demo"
                                             size='lg'
                                             value={inputValue}
                                             onClear={clearInputValue}
@@ -344,7 +344,7 @@ export default function Sidebar({ setGroupId, currentGroupId, showMessage, setMa
                                         <Input
                                             isClearable
                                             label="Search by username"
-                                            placeholder="Type to search... eg-: Laxya"
+                                            placeholder="Type to search... eg-: Demo"
                                             size='lg'
                                             value={inputValue}
                                             onClear={clearInputValue}
