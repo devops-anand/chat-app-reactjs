@@ -1,4 +1,4 @@
 const config = {
-    link: "http://localhost:4000/"
+    link: "https://bramble-level-mint.glitch.me/"
 }
 export default config;
