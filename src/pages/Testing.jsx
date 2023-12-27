@@ -9,7 +9,7 @@ function Testing() {
     const isTabletOrMobile = useMediaQuery({
         query: '(max-width: 1224px)'
     })
-    const text = "hello im laxya full stack developer"
+    const text = "hello im Anand Vishwakarma full stack developer"
 
     return (
         <div>
